@@ -1,12 +1,12 @@
 
-import React from 'react';
-import Navbar from "./Navbar";
-import Hero from './components/Hero';
-import Menu from './components/Menu';
-import About from './components/About';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
-import FloatingWhatsAppButton from './components/FloatingWhatsAppButton';
+import React from "react";
+import Navbar from "./components/components/Navbar";
+import Hero from "./components/components/Hero";
+import Menu from "./components/components/Menu";
+import About from "./components/components/About";
+import Contact from "./components/components/Contact";
+import Footer from "./components/components/Footer";
+import FloatingWhatsAppButton from "./components/components/FloatingWhatsAppButton";
 
 const App: React.FC = () => {
   return (
